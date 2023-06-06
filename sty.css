@@ -1,0 +1,19 @@
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    background-color: #45a1ff;
+    color: #fff;
+}
+body{
+    background-color: #c9fdd7;
+}
+h3{
+    color: #6892d5;
+}
+h2{
+    color: #f8fcfb;
+}
+.contact{
+    color: #6892d5;
+}
